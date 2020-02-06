@@ -4,8 +4,11 @@
   health: 700
   type: Wall
   size: 1
+  consumes: {
+    power: 0.5
+  },
   requirements: [
-    titanium/6
+    titanium/12
   ]
   category: defense
 }
