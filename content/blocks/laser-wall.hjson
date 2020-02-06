@@ -1,0 +1,11 @@
+{
+  name: Laser Wall
+  description: A wall powered by electricity
+  health: 700
+  type: Wall
+  size: 1
+  requirements: [
+    titanium/6
+  ]
+  category: defense
+}
