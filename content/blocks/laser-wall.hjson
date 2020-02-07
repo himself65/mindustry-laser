@@ -1,9 +1,11 @@
 {
   name: Laser Wall
   description: A wall powered by electricity
+  type: Turret
   health: 700
-  type: Wall
   size: 1
+  reload: 4
+  range: 40
   consumes: {
     power: 0.5
   },
