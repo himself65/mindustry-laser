@@ -1,0 +1,12 @@
+{
+  "name": "mindustry-laser-mod",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Himself65/mindustry-laser.git",
+  "author": "himself65 <himself65@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
